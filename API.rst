@@ -1,0 +1,6 @@
+***
+API
+***
+
+.. automodule:: oops
+   :members:
